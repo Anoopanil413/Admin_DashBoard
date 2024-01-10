@@ -18,9 +18,9 @@ const data = [
 const DbInvoiceTable = ({ heading }) => {
     return (
         <>
-            <TableContainer component={Paper} sx={{ margin: 2, padding: 2 }} style={{ maxWidth: '380px' }}>
+            <TableContainer component={Paper} sx={{ margin: 2, padding: 2 }} style={{ maxWidth: '390px' }}>
                 <Typography style={{ color: '#2EA6E5', fontWeight: '800' }}>{heading}</Typography>
-                <Table sx={{ maxWidth: 300 }} aria-label="simple table">
+                <Table sx={{ maxWidth: 370 }} aria-label="simple table">
                     <TableHead>
                         <TableRow>
                             <TableCell>Payment Ref.</TableCell>

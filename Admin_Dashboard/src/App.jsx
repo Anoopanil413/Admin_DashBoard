@@ -5,15 +5,6 @@ import Nav from './components/Nav'
 import Test from './components/Test'
 
 
-import { styled } from '@mui/material/styles';
-
-const Drawer = styled('div')({
-  position: 'absolute',
-  marginTop: '67px !important',
-  backgroundColor: 'black',
-  border: 'solid red 5px',
-  top: '67px',
-});
 
 
 function App() {
