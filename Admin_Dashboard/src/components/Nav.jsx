@@ -15,6 +15,8 @@ const Nav = () => {
                 <List style={{ width: '300px' }} >
                     <ListItem style={{ marginBottom: '40px', marginRight: '20px', borderBottom: 'solid black 2', borderRight: 'solid black 2', height: '57px', boxShadow: ' 2px 2px 4px rgba(0, 0, 0, 0.2)' }}>
                         <ListItemIcon>
+                            <img src='https://i.pinimg.com/originals/0b/92/c1/0b92c1ba5ae239c314ba2ec1dab936ec.png' alt="Logo" style={{ width: '50px', height: '45px' }} />
+
                         </ListItemIcon>
                         <ListItemText primary="Logo" />
                     </ListItem>
