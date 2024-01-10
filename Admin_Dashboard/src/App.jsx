@@ -2,7 +2,7 @@
 import './App.css'
 import DashBoard from './components/DashBoard'
 import Nav from './components/Nav'
-import Test from './components/test'
+import Test from './components/Test'
 
 
 import { styled } from '@mui/material/styles';
