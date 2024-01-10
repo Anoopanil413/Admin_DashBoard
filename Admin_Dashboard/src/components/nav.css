@@ -1,0 +1,16 @@
+.MuiListItem-root {
+    /* margin-bottom: 40px; */
+  
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.MuiListItem-button:hover {
+    background-color: #e7eefa;
+    color: #2EA6E5;
+    border-left: 5px solid #0B3C91;
+    border-right: 2px solid transparent;
+    border-top: 2px solid transparent;
+    border-bottom: 6px solid transparent;
+    /* box-shadow: 0 0 0 5px #0B3C91 inset; */
+
+}
